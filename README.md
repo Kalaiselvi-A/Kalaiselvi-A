@@ -1,13 +1,72 @@
-<h1 align="center">Hi 👋, I'm Kalaiselvi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Kalaiselvi" />
+</h1>
 
-- 📫 How to reach me **kalaiarumugham135@gmail.com**
+![Visitors](https://komarev.com/ghpvc/?username=Kalaiselvi-A&color=blueviolet)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@kalaiselvi_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kalaiselvi_a_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/kalaiselvia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kalaiselvia" height="30" width="40" /></a>
+## 🔨 What I'm Currently Working On
+- Anomaly-based detection for Network Intrusion Detection System (NIDS) using Django and Python.
+- AI-powered recommendation system for an e-commerce platform using TensorFlow.
+
+## 🏅 Certifications and Achievements
+- IT Specialist - Python [Certiport](https://www.certiport.com/)
+- CLA: Programming Essentials in C [Cisco Networking Academy](https://www.netacad.com/)
+- Star Performer, Full Stack Java Training Program (TNS India Foundation)
+- Participated in MINeD Hackathon 2024, focusing on ResumeRevealer problem statement with team Cyber-X.
+
+## 📝 Latest Articles
+- [Staying Updated in Technology](https://www.linkedin.com/in/kalaiselvi-a/)
+- [Core Java 8 - Deep Dive](https://www.linkedin.com/in/kalaiselvi-a/)
+
+## 🌍 Open Source Contributions
+- Contributed to [OpenCV](https://github.com/opencv/opencv) (Facial Recognition Integration)
+- Participated in Django repository issues and bug fixes.
+
+## 🔥 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalaiselvi-A&theme=react-dark&hide_border=false&area=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 💡 Favorite Quote
+"Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
+
+## 🏅 Coding Challenges
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kalaiselvia)
+
+## 📄 View My Resume
+[Resume PDF](https://github.com/Kalaiselvi-A/resume.pdf)
+
+## 🌟 Key Projects
+### 1. Network Intrusion Detection System (NIDS)
+A Django-based system designed to detect and alert on network intrusions using signature-based and anomaly-based detection techniques. 
+- **Technologies**: Python, Django, Machine Learning (TensorFlow), PyShark
+- **Features**: Packet capture, analysis, and intrusion detection.
+- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/NIDS-Demo)
+  
+### 2. AI-Powered E-Commerce Recommendation System
+An e-commerce platform using AI-based recommendation algorithms to personalize user experiences.
+- **Technologies**: Python, TensorFlow, Django, Bootstrap
+- **Features**: User authentication, product recommendation, real-time data analysis.
+- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/ECommerce-AI)
+
+### 3. Face Recognition-Based Online Attendance System
+A deep-learning-powered face recognition system for automating attendance.
+- **Technologies**: Python, OpenCV, TensorFlow, Flask
+- **Features**: Face detection, recognition, and attendance marking.
+- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/FaceRecognition-Attendance)
+
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 💬 Testimonials
+- "Kalaiselvi is a dedicated and talented developer with a keen eye for detail." – Mentor, TNS India Foundation.
+  
+## 📚 Currently Learning
+- TensorFlow for Deep Learning
+- Advanced Microservices with Spring Boot
