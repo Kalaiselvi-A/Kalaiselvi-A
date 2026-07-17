@@ -104,7 +104,7 @@ I'm a Software Developer passionate about building scalable backend applications
 
 ## 📈 GitHub Stats
 
-![Kalaiselvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalaiselvi-A&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kalaiselvi-A&theme=github-dark)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalaiselvi-A&layout=compact&theme=tokyonight&hide_border=true)
 
