@@ -102,11 +102,11 @@ I'm a Software Developer passionate about building scalable backend applications
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalaiselvi-A&show_icons=true&theme=github_dark)
+![Kalaiselvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalaiselvi-A&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalaiselvi-A&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalaiselvi-A&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
