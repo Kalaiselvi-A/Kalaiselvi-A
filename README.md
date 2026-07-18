@@ -104,9 +104,11 @@ I'm a Software Developer passionate about building scalable backend applications
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kalaiselvi-A&theme=github-dark)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalaiselvi-A&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kalaiselvi-A&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Kalaiselvi-A's github stats" />
+  <img src="https://streak-stats.demolab.com?user=Kalaiselvi-A&theme=tokyonight&hide_border=true" width="48%" alt="streak stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kalaiselvi-A&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="top languages" />
+</div>
 
 ---
 
